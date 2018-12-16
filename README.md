@@ -9,6 +9,6 @@
 
 There are tools that allow updated website content to be shared to different social media platforms. 
 
-<center>![](https://cdn.pixabay.com/photo/2016/02/03/15/48/social-media-1177293_1280.png)</center>
+![](https://cdn.pixabay.com/photo/2016/02/03/15/48/social-media-1177293_1280.png)
 
 … updating
